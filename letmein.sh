@@ -6,6 +6,7 @@
 # Desc: Wireless Script to use a wordlist to attempt to establish a
 # connect to a designated wireless network (using a PSK).
 # Notes: This is  a super Hacky McHackHack version 
+# Dependencies: Kali Linux
 # Usage:
 # ./letmein.sh HackMeWirelessNetwork wordlist.txt wlan0
 #

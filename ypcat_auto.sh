@@ -5,6 +5,7 @@
 # Author: @2bitwannabe
 # Desc: Help Automate Yellow Pages Enumeration during tests
 # Notes: This is  a super Hacky McHackHack version 
+# Dependencies: Kali Linux
 # Usage:
 # ./ypcat_auto.sh 
 #
